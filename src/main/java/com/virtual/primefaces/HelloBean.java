@@ -12,5 +12,4 @@ public class HelloBean {
         return  "Hi Mark, From bean test jsf";
     }
 
-
 }
